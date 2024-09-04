@@ -1,1 +1,1 @@
-# Proyecto de la asignatura de Heurística: Modelado de problemas y Satisfacción de restricciones (SAT) y búsqueda heurística (A*).
+Project for the Heuristics course: Problem Modeling and Constraint Satisfaction (SAT) and Heuristic Search (A*).
